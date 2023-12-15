@@ -15,9 +15,12 @@ li{
     padding: 30px;
     font-size: larger;
 }
-.container{
+.containers{
     background-color: rgb(78, 137, 137);
     color: black;
     font-size: xx-large;
     margin: 20px;
+}
+.card{
+    margin-left: auto;
 }
